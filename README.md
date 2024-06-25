@@ -27,3 +27,5 @@ This tool is designed for conducting wireless network penetration testing and in
 1. Clone the repository:
    ```bash
    git clone https://github.com/KiNGEX1/Aditria-Freamwork.git
+
+   python main.py
