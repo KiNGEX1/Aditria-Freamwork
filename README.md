@@ -1,6 +1,6 @@
 # Wireless Network Attack Tool
 
-![Tool Demo](link-to-demo-gif-or-image)
+![Tool Demo](https://ibb.co/qygSmYM)
 
 ## Overview
 
@@ -21,11 +21,9 @@ This tool is designed for conducting wireless network penetration testing and in
 ### Prerequisites
 
 - Python 3.x
-- [Dependency 1]
-- [Dependency 2]
 
 ### Installation Steps
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/wireless-attack-tool.git
+   git clone https://github.com/KiNGEX1/Aditria-Freamwork.git
